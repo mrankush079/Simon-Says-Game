@@ -1,6 +1,7 @@
 # 🎮 Simon Says Game
 
-A modern, browser-based memory challenge inspired by the classic "Simon Says" game. Built with **HTML**, **CSS**, and **JavaScript**, this project tests users' ability to recall and repeat sequences of colored button flashes that grow more complex with each level.
+A modern, browser-based memory challenge inspired by the classic "Simon Says" game. Built with **HTML**, **CSS**, and **JavaScript**, 
+this project tests users' ability to recall and repeat sequences of colored button flashes that grow more complex with each level.
 
 ## 🚀 Features
 
@@ -38,5 +39,7 @@ A modern, browser-based memory challenge inspired by the classic "Simon Says" ga
 - Animated transitions with Framer Motion or GSAP
 - Deployment on GitHub Pages or Vercel
 
-
+💼 About Me I'm Ankush Choudhary,
+a Full Stack Developer passionate about building interactive web apps and creative frontend experiences. 
+📫 Connect with me on LinkedIn (http://www.linkedin.com/in/mrankush079)
 
